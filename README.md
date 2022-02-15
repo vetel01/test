@@ -1,3 +1,1 @@
-This is my first project
-
-This is the second line 
+This is the testing phase of project ZEUZ
