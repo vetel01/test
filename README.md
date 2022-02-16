@@ -1,1 +1,3 @@
-This is the testing phase of project ZEUZ
+This modification was done on github.
+
+practices git clone url
